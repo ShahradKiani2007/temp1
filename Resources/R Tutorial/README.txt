@@ -1,1 +1,0 @@
-This is an interactive notebook, and it's recommended to open it using Jupyter Notebook or Google Colab for the best experience.
